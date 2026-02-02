@@ -34,9 +34,9 @@ Pense no seu script da **Calculadora em Node.js**:
 
 **Quem enviou a informação e quem processou o cálculo?**
 
-1. O **Teclado/Usuário** agiu como: (Cliente ou Servidor?)
+1. O **Teclado/Usuário** agiu como: 
    Cliente
-2. O **Código Node.js** que fez a conta agiu como: (Cliente ou Servidor?)
+2. O **Código Node.js** que fez a conta agiu como: 
    Servidor
 ---
 
